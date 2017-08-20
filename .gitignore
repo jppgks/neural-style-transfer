@@ -1,3 +1,6 @@
+# VGG weights
+imagenet-vgg-verydeep-19.mat
+
 # Python
 __pycache__/
 
